@@ -75,6 +75,8 @@ void ShellSort(int intArray[], int n) {
 	}
 }
 
+/*
+
 void merge() {
 	copy()
 }
@@ -82,7 +84,7 @@ void merge() {
 void MergeSort(int intArray[], int n) {
 	if()
 }
-
+*/
 
 int main()
 {

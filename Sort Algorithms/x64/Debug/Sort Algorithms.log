@@ -1,0 +1,3 @@
+﻿  Sort Algorithms.cpp
+D:\Blinkk\Learning\Programming\CPP\Algorithms\Sort Algorithms\Sort Algorithms.cpp(92,8): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  Sort Algorithms.vcxproj -> D:\Blinkk\Learning\Programming\CPP\Algorithms\x64\Debug\Sort Algorithms.exe
